@@ -1,7 +1,5 @@
 # pyshposh
 
-[![Build Status](https://travis-ci.org/poise/python.png?branch=master)](https://travis-ci.org/poise/python)
-
 *Python Execution Environment for Remoting Powershell*
 
 This is a helper application intended to facilitate the execution of PowerShell scripts from Linux
