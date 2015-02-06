@@ -1,0 +1,6 @@
+hosts:
+  - hostname : testhost.local
+    port: 5985
+    user: scriptuser
+    pass: s00persekret
+    authtype: kerberos
