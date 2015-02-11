@@ -1,5 +1,6 @@
-hosts:
-  - hostname : testhost.local
+hosts: 
+  testhost.local:
+    hostname: testhost.local
     port: 5985
     user: scriptuser
     pass: s00persekret
